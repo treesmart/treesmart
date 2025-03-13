@@ -1,7 +1,11 @@
-## Hi there 👋
+trying to do smth . dont mind this
+
+![image](https://tenor.com/view/tree-tpot-tpot-the-power-of-two-bfdi-bfb-gif-16556044109711449216)
+![image](<https://github.com/user-attachments/assets/ad867979-9bc8-4b65-8723-8ab9e71b78d8)>
 
 <!--
 **treesmart/treesmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
